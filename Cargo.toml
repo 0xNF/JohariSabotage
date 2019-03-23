@@ -1,0 +1,10 @@
+[package]
+name = "johari"
+version = "0.1.0"
+authors = ["0xNF <nflower+github@articulateinsights.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6"
+reqwest = "0.9.6"
+url = "1.7"
